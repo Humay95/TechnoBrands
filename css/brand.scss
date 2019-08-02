@@ -4,5 +4,10 @@
         list-style: none;
        padding-right: 40px;
        padding-top: 50px;
+       transition: all .3s;
+      &:hover{
+          transform: scale(1.2);
+      } 
     }
+    
 }

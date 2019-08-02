@@ -3,6 +3,9 @@
   .brand li {
     list-style: none;
     padding-right: 40px;
-    padding-top: 50px; }
+    padding-top: 50px;
+    transition: all .3s; }
+    .brand li:hover {
+      transform: scale(1.2); }
 
 /*# sourceMappingURL=brand.css.map */
