@@ -1,0 +1,8 @@
+.brand {
+  display: flex; }
+  .brand li {
+    list-style: none;
+    padding-right: 40px;
+    padding-top: 50px; }
+
+/*# sourceMappingURL=brand.css.map */
